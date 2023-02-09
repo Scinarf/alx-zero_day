@@ -1,2 +1,2 @@
 #!/bin/bash
-My second readme
+My second readme updated
